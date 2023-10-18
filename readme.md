@@ -8,7 +8,7 @@ Discover how these creative forces come together to craft websites, interactive 
 # Demos
 
 ## [Demo 1: Circle](/01_circle/)
-## [Demo 2: Color](/02_color/)
+## [Demo 2: Multiple circles](/02_circles/)
 ## [Demo 3: Grid](/03_grid/)
 ## [Demo 4: Random](/04_random/)
 ## [Demo 5: Animate](/05_animate/)
