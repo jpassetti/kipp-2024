@@ -1,6 +1,7 @@
-#### ESSPA 2023
+#### Syracuse University Project Advance
 # The Digital Palette: Where Design, Art, and Code Converge
 
+#### KIPP School, Friday, Nov. 15, 2024
 #### By Jeff Passetti
 
 Discover how these creative forces come together to craft websites, interactive apps, and digital art with limitless potential, and how they can ignite your passion for the ever-evolving world of digital media and technology.
@@ -12,3 +13,4 @@ Discover how these creative forces come together to craft websites, interactive 
 ## [Demo 3: Grid](/03_grid/)
 ## [Demo 4: Random](/04_random/)
 ## [Demo 5: Animate](/05_animate/)
+## [Demo 6: Noise](/06_noise/)
