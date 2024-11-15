@@ -1,1 +1,1 @@
-[Live version](https://esspa-2023.vercel.app/04_random/index.html)
+[Live version](https://kipp-2024.vercel.app/06_noise/index.html)
